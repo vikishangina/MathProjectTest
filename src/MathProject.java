@@ -10,6 +10,9 @@ public class MathProject {
 	public static double MINIMUM_HEIGHT	= 0;
 	public static double MAXIMUM_HEIGHT	= POS_INFINITE;
 	
+	/*
+	 * Author: xxx
+	 */
 	private boolean isValidRadius(double r)
 	{
 		if(r < MINIMUM_RADIUS || r > MAXIMUM_RADIUS)
